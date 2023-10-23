@@ -19,8 +19,8 @@ int main(){
    for(int i=0;i<n;i++){
        cout<<"Gia tri "<<i+1<<": ";
        cin>>arr[i];
-     cout <<" thay doi tu test1";
-   }
+     cout <<" thay doi tu nahnshtest1";
+   
 
 cout<<"Gia tri trung binh="<<avg(arr,n)<<endl; //chi dat ten cho mang khi ham duoc goi
 
